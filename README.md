@@ -25,4 +25,4 @@ https://console.developers.google.com/apis/credentials?pli=1
 
 ## License
 
-This project is licensed under the GPL - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GPL - see the [LICENSE.md](https://github.com/codeWithUtkarsh/YoutubeSearchAPI/blob/main/LICENSE) file for details
